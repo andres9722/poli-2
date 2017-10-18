@@ -1,0 +1,17 @@
+{
+    "server" :
+    {
+        "port" : 3001
+    },
+  
+    "auth" :
+    {
+        "SECRET_TOKEN": "medosPoliSecretTKN"
+
+    },
+  
+    "session":
+    {
+        "secret": "medosPoliSessionSCRT"
+    }
+}
